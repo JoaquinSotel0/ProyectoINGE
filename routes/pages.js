@@ -4,7 +4,7 @@ const router = express.Router()
 
 router.get('/', (req, res) => {
   if (req.user) {
-    res.render('index.ejs', { name: req.user.name });
+    res.render('index.ejs');
   } else {
     // Handle the case where no user is logged in:
     // Option 1: Redirect to login
