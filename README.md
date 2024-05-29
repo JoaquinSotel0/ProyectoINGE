@@ -11,6 +11,10 @@ Desarrollar un software que permita acceder a un dashboard, implementado utiliza
 - Redireccionar a usuarios autenticados al dashboard.
 - Implementar un dashboard ejemplo con datos y graficas.
 
+### Requerimientos:
+NodeJS
+MySQL
+
 ###  Integrantes
 
  - [Fausto Medina](https://github.com/Harico04)
